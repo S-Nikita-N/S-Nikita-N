@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @S-Nikita-N
+- 👀 I’m interested in Web develoment
+- 🌱 I’m currently learning JS PHP CSS HTML
+- 💞️ I’m looking to collaborate on any web projects
+- 📫 How to reach me nikswirlo@gmail.com
