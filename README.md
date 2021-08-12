@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S-Nikita-N
+- 👋 Hi, I’m @Nikita
 - 👀 I’m interested in Web develoment
 - 🌱 I’m currently learning JS PHP CSS HTML
 - 💞️ I’m looking to collaborate on any web projects
