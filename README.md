@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikita
-- 👀 I’m interested in Web develoment
-- 🌱 I’m currently learning JS PHP CSS HTML
-- 💞️ I’m looking to collaborate on any web projects
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Neuron Networks
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me nikswirlo@gmail.com
